@@ -6,4 +6,4 @@ items, the current date, and the location of the device when the post is created
 -----
 # Demo 
 
-https://github.com/jinapkim/wasteagram/blob/main/wasteagram%20demo.gif
+![](https://github.com/jinapkim/wasteagram/blob/main/wasteagram%20demo.gif)
